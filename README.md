@@ -5,7 +5,7 @@ This repository contains problem instances for the unrelated parallel machine sc
 The problem instances found hereare used in two different papers.
 
 1. *Scheduling a Real-World Photolithography Area with Constraint Programming* by *Patrick Deenen, Wim Nuijten and Alp Akcay*. The problem instances used in this paper can be found in folders:
-- **synthetic_problem_instances**
+- **small_instances**
 - **10_real_world_problem_instances**
 
 
